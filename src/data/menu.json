@@ -1,0 +1,13 @@
+{
+  "logo": {
+    "src": "/static/img/ups-logo.svg",
+    "alt": "Upstatement",
+    "url": "https://upstatement.com/"
+  },
+  "header_links": [
+    {
+      "label": "Puppy Tutorial",
+      "url": "/tutorial.html"
+    }
+  ]
+}
