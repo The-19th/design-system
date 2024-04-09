@@ -1,0 +1,14 @@
+{
+  "name": "the-19th/design-system-twig",
+  "description": "Twig templates for 19th design system",
+  "keywords": [
+    "twig",
+    "twig-bundle",
+    "composer",
+    "installer",
+    "bundle"
+  ],
+  "type": "twig-bundle",
+  "license": "MIT",
+  "minimum-stability": "stable"
+}
